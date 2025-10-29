@@ -4,6 +4,17 @@
 
 # Dictionary: a key-value data structure
 
+mydict = {
+    "one": 1,
+    "two": 2,
+    3: "three",
+    4.5: ["four", "point", "five"],
+}
+
+# dictionaries are accessed via keys
+print(mydict["one"])
+print(mydict[3])
+
 
 # dictionaries are accessed via keys
 
