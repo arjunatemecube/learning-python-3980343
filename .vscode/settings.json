@@ -19,5 +19,19 @@
     "terminal.integrated.fontSize": 18,
     "workbench.colorTheme": "Visual Studio Light",
     "workbench.fontAliasing": "antialiased",
-    "workbench.statusBar.visible": true
+    "workbench.statusBar.visible": true,
+    "python2.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python2.testing.pytestEnabled": false,
+    "python2.testing.unittestEnabled": true,
+    "python.testing.pytestArgs": [
+        "Start"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
