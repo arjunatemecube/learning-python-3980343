@@ -26,3 +26,10 @@
 # print(myset[0]) # this will cause an error
 
 # Test for membership
+
+show_expected_result = False
+show_hints = False
+
+def count_numbers(which, numbers):
+    # Your code goes here
+    return -1
